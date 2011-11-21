@@ -1,4 +1,4 @@
-I solved this one right after solving problem 13 (Chess Move Validator) which I found much more difficule. For that problem, I really tried to come up with a nice and extensible design (which I'll share as soon as the Mendicant University exam deadline has passed). 
+I solved this one right after solving problem 13 (Chess Move Validator) which I found much more difficult. For that problem, I really tried to come up with a nice and extensible design (which I'll share as soon as the Mendicant University exam deadline has passed). 
 
 So after spending a few walks thinking this problem over, I decided to attack it in a completely different way: 
 
